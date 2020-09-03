@@ -1,4 +1,4 @@
-<h2>Hi there 👋, I'm Gustavo (or Gus, if it is too difficult to pronounce)<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hi there 👋, I'm Gustavo (or Gus, if it is too difficult to pronounce)<img src="https://media.giphy.com/media/RMAnPMLrnOVhWuvusR/giphy.gif" width="50"></h2>
 <img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" align="right" width="300">
 <p><em>Frontend developer at <a href="https://fapemig.br/pt/">FAPEMIG - Fundação de Amparo à Pesquisa do Estado de Minas Gerais</a>
 </em></p>
