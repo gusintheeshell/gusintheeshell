@@ -20,8 +20,6 @@ jobs:
           SHOW_COMMIT: "True"
           SHOW_LANGUAGE: "True"
           SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
           SHOW_TIMEZONE: "True"
           SHOW_EDITORS: "True"
-          SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_SHORT_INFO: "True"
