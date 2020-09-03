@@ -13,7 +13,30 @@
 
 ---
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On**
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.43% 
+🌆 Daytime    159 commits    ████████░░░░░░░░░░░░░░░░░   32.32% 
+🌃 Evening    151 commits    ███████░░░░░░░░░░░░░░░░░░   30.69% 
+🌙 Night      111 commits    █████░░░░░░░░░░░░░░░░░░░░   22.56%
+
+```
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+
+🔥 Editors: 
+
+💻 Operating System: 
+
+```
+
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
