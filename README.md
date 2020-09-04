@@ -1,6 +1,6 @@
 <h2>Hi there 👋, I'm Gustavo (or Gus, if it is too difficult to pronounce)<img src="https://media.giphy.com/media/RMAnPMLrnOVhWuvusR/giphy.gif" width="50"></h2>
 <img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" align="right" width="300">
-<p><em>Frontend developer at <a href="https://fapemig.br/pt/">FAPEMIG - Fundação de Amparo à Pesquisa do Estado de Minas Gerais</a>
+<p><em>Frontend Developer at <a href="https://fapemig.br/pt/">FAPEMIG - Fundação de Amparo à Pesquisa do Estado de Minas Gerais</a>
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/GustavoBFig?label=Follow)
@@ -41,20 +41,6 @@
 🌃 Evening    68 commits     █████████████░░░░░░░░░░░░   52.71% 
 🌙 Night      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.88%
 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
-Tuesday      21 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
-Wednesday    36 commits     ███████░░░░░░░░░░░░░░░░░░   27.91% 
-Thursday     19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.73% 
-Friday       15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
-Saturday     8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.2% 
-Sunday       21 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.28%
-
-```
-
 
 📊 **This Week I Spent My Time On** 
 
@@ -66,10 +52,6 @@ JavaScript               17 hrs 11 mins      ███████████�
 
 🔥 Editors: 
 VS Code                  17 hrs 11 mins      █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-evandomirra              11 hrs 51 mins      █████████████████░░░░░░░░   69.0% 
-app-emprotegetabs        5 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   31.0%
 
 💻 Operating System: 
 Linux                    17 hrs 11 mins      █████████████████████████   100.0%
@@ -85,13 +67,6 @@ Java                     3 repos             ████░░░░░░░�
 PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76%
 
 ```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/gusbdev/gusbdev/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
