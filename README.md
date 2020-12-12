@@ -17,7 +17,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
@@ -50,14 +50,14 @@
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               4 hrs 31 mins       █████████████████████████   100.0% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+JavaScript               3 hrs 16 mins       █████████████████████████   99.94% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 🔥 Editors: 
-VS Code                  4 hrs 31 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 16 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    4 hrs 31 mins       █████████████████████████   100.0%
+Linux                    3 hrs 16 mins       █████████████████████████   100.0%
 
 ```
 
