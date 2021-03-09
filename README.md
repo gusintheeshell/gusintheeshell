@@ -17,13 +17,13 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-368941%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 105 Contributions in the Year 2021
+> 🏆 106 Contributions in the Year 2021
  > 
 > 📦 51.0 kB Used in Github's Storage 
  > 
@@ -50,15 +50,13 @@
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               6 mins              ███████████████████░░░░░░   78.12% 
-Java                     1 min               █████░░░░░░░░░░░░░░░░░░░░   21.88%
+Java                     1 min               █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  6 mins              ███████████████████░░░░░░   78.12% 
-IntelliJ                 1 min               █████░░░░░░░░░░░░░░░░░░░░   21.88%
+IntelliJ                 1 min               █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    7 mins              █████████████████████████   100.0%
+Linux                    1 min               █████████████████████████   100.0%
 
 ```
 
