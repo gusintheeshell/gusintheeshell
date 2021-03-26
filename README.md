@@ -23,7 +23,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 121 Contributions in the Year 2021
+> 🏆 136 Contributions in the Year 2021
  > 
 > 📦 51.5 kB Used in Github's Storage 
  > 
@@ -50,13 +50,13 @@
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              █████████████████████████   100.0%
 
 ```
 
