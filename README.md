@@ -13,6 +13,7 @@
 
 - 🔭 I’m currently working on an internal system that aims to improve internal processes and also in an application for a private company...
 - 🌱 I’m currently learning NodeJS
+- :computer: I’m currently using Zorin OS
 - ⚡ Fun fact: No coffee, no code...
 
 ---
