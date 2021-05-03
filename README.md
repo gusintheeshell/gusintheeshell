@@ -17,6 +17,8 @@
 - :computer: I’m currently using Zorin OS
 - ⚡ Fun fact: No coffee, no code...
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ---
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
