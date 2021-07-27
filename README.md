@@ -71,7 +71,7 @@ Mac                      4 hrs 32 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 26/07/2021
+ Last Updated on 27/07/2021
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
