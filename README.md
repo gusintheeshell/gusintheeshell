@@ -23,11 +23,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-560521%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-560447%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 614 Contributions in the Year 2021
+> 🏆 616 Contributions in the Year 2021
  > 
 > 📦 72.4 kB Used in Github's Storage 
  > 
@@ -40,9 +40,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    96 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
-🌆 Daytime    216 commits    █████████░░░░░░░░░░░░░░░░   36.0% 
-🌃 Evening    259 commits    ██████████░░░░░░░░░░░░░░░   43.17% 
+🌞 Morning    95 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.83% 
+🌆 Daytime    215 commits    █████████░░░░░░░░░░░░░░░░   35.83% 
+🌃 Evening    261 commits    ███████████░░░░░░░░░░░░░░   43.5% 
 🌙 Night      29 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.83%
 
 ```
@@ -71,7 +71,7 @@ Linux                    1 hr 58 mins        ███████░░░░�
 ```
 
 
- Last Updated on 16/08/2021
+ Last Updated on 17/08/2021
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
