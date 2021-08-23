@@ -1,6 +1,6 @@
 <h2>Hi there 👋, I'm Gustavo (or Gus, if it is too difficult to pronounce)<img src="https://media.giphy.com/media/RMAnPMLrnOVhWuvusR/giphy.gif" width="50"></h2>
 <img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" align="right" width="300">
-<p><em>Fullstack Developer at <a href="https://mobilus.com.br/">Mobilus Tecnologia LTDA</a>
+<p><em>Front-end Developer at <a href="https://forpeople.io/">For People Softwares</a>
 </em></p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gusbdev.gusbdev)
