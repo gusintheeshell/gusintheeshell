@@ -10,13 +10,18 @@
 [![Medium](https://img.shields.io/badge/-Gustavo%20Barbosa-black?style=flat-square&logo=Medium&logoColor=white&link=https://gusbdev.medium.com/)](https://gusbdev.medium.com/)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
-### <img src="https://media.giphy.com/media/LRUSX9oaSmuKW3n4Ax/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/JmPabUqU22FAbQYkzN/giphy.gif?cid=ecf05e47q7yo25g6s5nej8umf3mb3j381wfsxdgh38ozfxmn&rid=giphy.gif&ct=s" width="50"> A little more about me...  
 
 - 🌱 I’m currently learning TypeScript
 - :computer: I’m currently using Linux Mint "Uma"
 - ⚡ Fun fact: No coffee, no code...
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+### <img src="https://media.giphy.com/media/J5G9LaVDOHjPXWiPpM/giphy.gif?cid=ecf05e4754h7jyq8sg2agqh6e4osqtfrgpe9vqbv359lhy35&rid=giphy.gif&ct=s" width="50"> Around the internet...
+- [Using Camera In React Native](https://gusbdev.medium.com/using-camera-in-react-native-370a2569ccd4)
+- [Uso de câmera no React Native](https://gusbdev.medium.com/uso-de-c%C3%A2mera-no-react-native-3917ef1de182)
+
+### <img src="https://media.giphy.com/media/LRUSX9oaSmuKW3n4Ax/giphy.gif" width="50"> Projects from articles and tutorials
+- [Using Camera In React Native / Uso de câmera no React Native](https://github.com/gusbdev/AwesomeCamera)
 
 ---
 <!--START_SECTION:waka-->
