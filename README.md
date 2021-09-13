@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning TypeScript, Node JS
 - :computer: I’m currently using Linux Mint "Uma"
-- ⚡ Fun fact: No coffee, no code...
+- ⚡ Fun fact: No coffee, no code
 
 ### <img src="https://media.giphy.com/media/J5G9LaVDOHjPXWiPpM/giphy.gif?cid=ecf05e4754h7jyq8sg2agqh6e4osqtfrgpe9vqbv359lhy35&rid=giphy.gif&ct=s" width="50"> Around the internet...
 - [Using Camera In React Native](https://gusbdev.medium.com/using-camera-in-react-native-370a2569ccd4)
