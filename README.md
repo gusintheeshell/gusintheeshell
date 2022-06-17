@@ -25,56 +25,6 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-640256%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 901 Contributions in the Year 2021
- > 
-> 📦 80.1 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 64 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.2% 
-🌆 Daytime    259 commits    ████████░░░░░░░░░░░░░░░░░   32.87% 
-🌃 Evening    397 commits    ████████████░░░░░░░░░░░░░   50.38% 
-🌙 Night      28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.55%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-TypeScript               13 hrs 15 mins      ████████████████████░░░░░   79.59% 
-sh                       2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
-Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.97% 
-Groovy                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01% 
-JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
-
-🔥 Editors: 
-VS Code                  14 hrs 29 mins      █████████████████████░░░░   87.0% 
-Zsh                      2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.0%
-
-💻 Operating System: 
-Linux                    16 hrs 39 mins      █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 19/11/2021
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
