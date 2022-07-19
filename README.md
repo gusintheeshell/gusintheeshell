@@ -12,7 +12,7 @@
 
 ### <img src="https://media.giphy.com/media/JmPabUqU22FAbQYkzN/giphy.gif?cid=ecf05e47q7yo25g6s5nej8umf3mb3j381wfsxdgh38ozfxmn&rid=giphy.gif&ct=s" width="50"> A little more about me...  
 
-- 🌱 I’m currently learning TypeScript, Node JS
+- 🌱 I’m currently learning Ruby, Ruby On Rails
 - :computer: I’m currently using Linux Mint "Uma"
 - ⚡ Fun fact: No coffee, no code
 
