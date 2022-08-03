@@ -12,7 +12,7 @@
 
 ### <img src="https://media.giphy.com/media/JmPabUqU22FAbQYkzN/giphy.gif?cid=ecf05e47q7yo25g6s5nej8umf3mb3j381wfsxdgh38ozfxmn&rid=giphy.gif&ct=s" width="50"> A little more about me...  
 
-- 🌱 I’m currently learning Ruby, Ruby On Rails
+- 🌱 I’m currently learning Ruby, Ruby On Rails <img src="https://cdn.emojidex.com/emoji/seal/Ruby.png?1465787635" width="25" height="25" />
 - :computer: I’m currently using Linux Mint "Uma"
 - ⚡ Fun fact: No coffee, no code
 
