@@ -25,9 +25,9 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C995%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C990%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-642%20Thousand%20lines%20of%20code-blue)
 
@@ -35,7 +35,7 @@
 
 > 🏆 208 Contributions in the Year 2022
  > 
-> 📦 82.5 kB Used in GitHub's Storage 
+> 📦 82.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -75,7 +75,7 @@ Linux                    21 hrs 47 mins      ███████████�
 ```
 
 
- Last Updated on 25/08/2022 02:17:38 UTC
+ Last Updated on 26/08/2022 02:18:51 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
