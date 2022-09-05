@@ -25,7 +25,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C043%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -43,40 +43,8 @@
  > 
 > 🔑 12 Private Repositories  
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning    76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.67% 
-🌆 Daytime    251 commits    ████████░░░░░░░░░░░░░░░░░   35.25% 
-🌃 Evening    359 commits    ████████████░░░░░░░░░░░░░   50.42% 
-🌙 Night      26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.65%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-JavaScript               32 hrs 59 mins      ██████████████████░░░░░░░   75.02% 
-TypeScript               9 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   22.11% 
-JSON                     50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.93% 
-SCSS                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57% 
-sh                       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
-
-🔥 Editors: 
-VS Code                  43 hrs 52 mins      █████████████████████████   99.77% 
-Zsh                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
-
-💻 Operating System: 
-Linux                    43 hrs 58 mins      █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 04/09/2022 02:22:41 UTC
+ Last Updated on 05/09/2022 02:21:15 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
