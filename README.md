@@ -25,7 +25,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C056%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C059%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -60,21 +60,19 @@
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               9 hrs 20 mins       █████████████████░░░░░░░░   68.2% 
-SCSS                     4 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   31.75% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+TypeScript               7 hrs 22 mins       █████████████████░░░░░░░░   68.48% 
+SCSS                     3 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   31.52%
 
 🔥 Editors: 
-VS Code                  13 hrs 41 mins      █████████████████████████   100.0%
+VS Code                  10 hrs 46 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    13 hrs 41 mins      █████████████████████████   100.0%
+Linux                    10 hrs 46 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 11/09/2022 02:20:10 UTC
+ Last Updated on 12/09/2022 02:34:16 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
