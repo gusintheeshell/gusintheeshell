@@ -60,19 +60,18 @@
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               1 hr 52 mins        ████████████████████░░░░░   82.7% 
-SCSS                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.3%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 16 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 16 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 17/09/2022 02:16:17 UTC
+ Last Updated on 18/09/2022 02:46:39 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
