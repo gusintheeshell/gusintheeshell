@@ -25,17 +25,17 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C100%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C104%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-667%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-645%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 264 Contributions in the Year 2022
+> 🏆 297 Contributions in the Year 2022
  > 
-> 📦 85.0 kB Used in GitHub's Storage 
+> 📦 85.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -46,10 +46,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.84% 
-🌆 Daytime    204 commits    ██████████░░░░░░░░░░░░░░░   39.84% 
-🌃 Evening    222 commits    ██████████░░░░░░░░░░░░░░░   43.36% 
-🌙 Night      10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.95%
+🌞 Morning    76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.94% 
+🌆 Daytime    229 commits    ██████████░░░░░░░░░░░░░░░   42.02% 
+🌃 Evening    230 commits    ██████████░░░░░░░░░░░░░░░   42.2% 
+🌙 Night      10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83%
 
 ```
 
@@ -74,7 +74,7 @@ Linux                    4 hrs 1 min         ███████████�
 ```
 
 
- Last Updated on 03/11/2022 02:04:00 UTC
+ Last Updated on 04/11/2022 02:11:12 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
