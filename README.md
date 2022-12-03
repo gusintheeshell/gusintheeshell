@@ -25,7 +25,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C144%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C146%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -35,7 +35,7 @@
 
 > 🏆 301 Contributions in the Year 2022
  > 
-> 📦 86.0 kB Used in GitHub's Storage 
+> 📦 85.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -60,22 +60,22 @@
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               4 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   41.41% 
-JavaScript               4 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   38.85% 
-HTML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.53% 
-Blade Template           45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.29% 
-CSS                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51%
+JavaScript               6 hrs 1 min         ██████████████░░░░░░░░░░░   56.54% 
+TypeScript               2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   25.28% 
+HTML                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.16% 
+Blade Template           48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.66% 
+SCSS                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37%
 
 🔥 Editors: 
-VS Code                  11 hrs 58 mins      █████████████████████████   100.0%
+VS Code                  10 hrs 39 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    11 hrs 58 mins      █████████████████████████   100.0%
+Linux                    10 hrs 39 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 02/12/2022 01:33:50 UTC
+ Last Updated on 03/12/2022 01:30:27 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
