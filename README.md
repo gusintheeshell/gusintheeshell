@@ -1,6 +1,6 @@
 <h2>Hi there 👋, I'm Gustavo (or Gus, if it is too difficult to pronounce)<img src="https://media.giphy.com/media/RMAnPMLrnOVhWuvusR/giphy.gif" width="50"></h2>
 <img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" align="right" width="300">
-<p><em>Front-end Developer at <a href="https://forpeople.io/">For People Softwares</a>
+<p><em>Front-end Developer at <a href="https://forpeople.io/">123 Milhas</a>
 </em></p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gusbdev.gusbdev)
@@ -13,7 +13,7 @@
 ### <img src="https://media.giphy.com/media/JmPabUqU22FAbQYkzN/giphy.gif?cid=ecf05e47q7yo25g6s5nej8umf3mb3j381wfsxdgh38ozfxmn&rid=giphy.gif&ct=s" width="50"> A little more about me...  
 
 - 🌱 I’m currently learning Ruby, Ruby On Rails <img src="https://cdn.emojidex.com/emoji/seal/Ruby.png?1465787635" width="25" height="25" />
-- :computer: I’m currently using Linux Mint "Uma"
+- :computer: I’m currently using Linux Solus
 - ⚡ Fun fact: No coffee, no code
 
 ### <img src="https://media.giphy.com/media/J5G9LaVDOHjPXWiPpM/giphy.gif?cid=ecf05e4754h7jyq8sg2agqh6e4osqtfrgpe9vqbv359lhy35&rid=giphy.gif&ct=s" width="50"> Around the internet...
