@@ -1,6 +1,6 @@
 <h2>Hi there 👋, I'm Gustavo (or Gus, if it is too difficult to pronounce)<img src="https://media.giphy.com/media/RMAnPMLrnOVhWuvusR/giphy.gif" width="50"></h2>
 <img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" align="right" width="300">
-<p><em>Front-end Developer at <a href="https://forpeople.io/">123 Milhas</a>
+<p><em>Front-end Developer at <a href="https://123milhas.com/">123 Milhas</a>
 </em></p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gusbdev.gusbdev)
