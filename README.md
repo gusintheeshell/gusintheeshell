@@ -25,31 +25,31 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C163%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C166%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-648%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-656%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 357 Contributions in the Year 2022
+> 🏆 391 Contributions in the Year 2022
  > 
-> 📦 89.7 kB Used in GitHub's Storage 
+> 📦 90.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 80 Public Repositories 
  > 
-> 🔑 14 Private Repositories  
+> 🔑 15 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.28% 
-🌆 Daytime    225 commits    ██████████░░░░░░░░░░░░░░░   41.51% 
-🌃 Evening    235 commits    ██████████░░░░░░░░░░░░░░░   43.36% 
-🌙 Night      10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85%
+🌞 Morning    94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.97% 
+🌆 Daytime    254 commits    ██████████░░░░░░░░░░░░░░░   40.45% 
+🌃 Evening    270 commits    ██████████░░░░░░░░░░░░░░░   42.99% 
+🌙 Night      10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59%
 
 ```
 
@@ -60,22 +60,22 @@
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               8 hrs 33 mins       ██████████████░░░░░░░░░░░   57.16% 
-TypeScript               2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.47% 
-HTML                     1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.32% 
-Docker                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.85% 
-Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.62%
+JavaScript               14 hrs 49 mins      █████████████████░░░░░░░░   69.66% 
+TypeScript               2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.18% 
+HTML                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.26% 
+Docker                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.11% 
+Markdown                 32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.54%
 
 🔥 Editors: 
-VS Code                  14 hrs 58 mins      █████████████████████████   100.0%
+VS Code                  21 hrs 16 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    14 hrs 58 mins      █████████████████████████   100.0%
+Linux                    21 hrs 16 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 11/12/2022 01:46:42 UTC
+ Last Updated on 12/12/2022 01:35:50 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
