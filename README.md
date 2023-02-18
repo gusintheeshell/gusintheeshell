@@ -25,11 +25,11 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C272%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C274%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -60,22 +60,22 @@
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Blade Template           4 hrs 11 mins       ████████████████░░░░░░░░░   65.79 % 
-TypeScript               1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.04 % 
-JavaScript               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-PHP                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Blade Template           4 hrs 2 mins        ████████████████░░░░░░░░░   67.09 % 
+JavaScript               44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+TypeScript               42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+PHP                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 21 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 1 min         █████████████████████████   100.00 % 
 
 ```
 
 
- Last Updated on 17/02/2023 01:30:07 UTC
+ Last Updated on 18/02/2023 01:25:35 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
