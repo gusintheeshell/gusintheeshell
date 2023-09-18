@@ -17,8 +17,13 @@
 - ⚡ Fun fact: No coffee, no code
 
 ### <img src="https://media.giphy.com/media/J5G9LaVDOHjPXWiPpM/giphy.gif?cid=ecf05e4754h7jyq8sg2agqh6e4osqtfrgpe9vqbv359lhy35&rid=giphy.gif&ct=s" width="50"> Around the internet...
+🇺🇸 EN-US
 - [Using Camera In React Native](https://gusbdev.medium.com/using-camera-in-react-native-370a2569ccd4)
+
+🇧🇷 PT-BR
 - [Uso de câmera no React Native](https://gusbdev.medium.com/uso-de-c%C3%A2mera-no-react-native-3917ef1de182)
+- [Terminal para Desenvolvedores](https://blog-nexts-notion.vercel.app/blog/terminal-para-desenvolvedores)
+- [Testes Unitários no Front-End(React)](https://blog-nexts-notion.vercel.app/blog/testes-unitarios-no-frontend)
 
 ### <img src="https://media.giphy.com/media/LRUSX9oaSmuKW3n4Ax/giphy.gif" width="50"> Projects from articles and tutorials
 - [Using Camera In React Native / Uso de câmera no React Native](https://github.com/gusbdev/AwesomeCamera)
