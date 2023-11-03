@@ -28,6 +28,9 @@
 ### <img src="https://media.giphy.com/media/LRUSX9oaSmuKW3n4Ax/giphy.gif" width="50"> Projects from articles and tutorials
 - [Using Camera In React Native / Uso de câmera no React Native](https://github.com/gusbdev/AwesomeCamera)
 
+### Created packages
+- [Timer Function Execution](https://www.npmjs.com/package/timer-function-execution) - Measure the execution time of functions
+
 ---
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C918%20hrs%2015%20mins-blue)
