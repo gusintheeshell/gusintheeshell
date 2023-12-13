@@ -67,18 +67,17 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    4 mins              ███████████████████████░░   90.98 % 
-TypeScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/12/2023 01:11:32 UTC
+ Last Updated on 13/12/2023 01:11:16 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
