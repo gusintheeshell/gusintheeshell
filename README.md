@@ -43,7 +43,7 @@
 
 > 📦 128.8 kB Used in GitHub's Storage 
  > 
-> 🏆 762 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -77,7 +77,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/12/2023 01:14:29 UTC
+ Last Updated on 01/01/2024 01:16:07 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
