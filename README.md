@@ -12,8 +12,8 @@
 
 ### <img src="https://media.giphy.com/media/JmPabUqU22FAbQYkzN/giphy.gif?cid=ecf05e47q7yo25g6s5nej8umf3mb3j381wfsxdgh38ozfxmn&rid=giphy.gif&ct=s" width="50"> A little more about me...  
 
-- 🌱 I’m currently learning Nest.JS, AWS
-- :computer: I’m currently using Macbook PRO
+- 🌱 I’m currently learning AWS, Architecture and Advanced React
+- :computer: I’m currently using Macbook PRO 15 2017
 - ⚡ Fun fact: No coffee, no code
 
 ### <img src="https://media.giphy.com/media/J5G9LaVDOHjPXWiPpM/giphy.gif?cid=ecf05e4754h7jyq8sg2agqh6e4osqtfrgpe9vqbv359lhy35&rid=giphy.gif&ct=s" width="50"> Around the internet...
