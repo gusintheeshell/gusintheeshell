@@ -35,7 +35,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C971%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
 
@@ -81,7 +81,7 @@ Mac                      1 hr 7 mins         ███████████�
 ```
 
 
- Last Updated on 29/02/2024 01:05:35 UTC
+ Last Updated on 01/03/2024 01:11:59 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
