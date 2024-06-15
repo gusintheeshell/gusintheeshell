@@ -43,7 +43,7 @@
 
 > 📦 131.5 kB Used in GitHub's Storage 
  > 
-> 🏆 318 Contributions in the Year 2024
+> 🏆 317 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,17 +67,19 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               7 mins              █████████████████████░░░░   85.17 % 
+Other                    1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 mins              █████████████████████░░░░   85.17 % 
+fish                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/06/2024 01:14:54 UTC
+ Last Updated on 15/06/2024 01:15:17 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
