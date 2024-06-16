@@ -33,8 +33,6 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C097%20hrs%2017%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
@@ -42,8 +40,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 131.5 kB Used in GitHub's Storage 
- > 
-> 🏆 317 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -79,7 +75,7 @@ Mac                      8 mins              ███████████�
 ```
 
 
- Last Updated on 15/06/2024 01:15:17 UTC
+ Last Updated on 16/06/2024 01:20:10 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
