@@ -43,13 +43,11 @@
 
 > 📦 132.5 kB Used in GitHub's Storage 
  > 
-> 🏆 354 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 95 Public Repositories 
+> 📜 94 Public Repositories 
  > 
-> 🔑 36 Private Repositories 
+> 🔑 37 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -67,18 +65,17 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-HTML                     53 mins             █████████████████████████   99.39 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 27/06/2024 01:15:22 UTC
+ Last Updated on 28/06/2024 01:15:15 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
