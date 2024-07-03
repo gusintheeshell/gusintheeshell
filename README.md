@@ -43,8 +43,6 @@
 
 > 📦 132.5 kB Used in GitHub's Storage 
  > 
-> 🏆 354 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 94 Public Repositories 
@@ -77,7 +75,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 02/07/2024 01:16:02 UTC
+ Last Updated on 03/07/2024 01:15:33 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
