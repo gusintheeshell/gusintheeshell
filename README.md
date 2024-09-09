@@ -33,8 +33,6 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C199%20hrs%2056%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
@@ -43,7 +41,7 @@
 
 > 📦 132.9 kB Used in GitHub's Storage 
  > 
-> 🏆 512 Contributions in the Year 2024
+> 🏆 529 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,10 +52,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                902 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-🌆 Daytime                2319 commits        █████████░░░░░░░░░░░░░░░░   34.98 % 
-🌃 Evening                3084 commits        ████████████░░░░░░░░░░░░░   46.52 % 
-🌙 Night                  325 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+🌞 Morning                902 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+🌆 Daytime                2350 commits        █████████░░░░░░░░░░░░░░░░   34.93 % 
+🌃 Evening                3121 commits        ████████████░░░░░░░░░░░░░   46.39 % 
+🌙 Night                  355 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 ```
 
 
@@ -82,7 +80,7 @@ Mac                      10 hrs 18 mins      ███████████�
 ```
 
 
- Last Updated on 08/09/2024 01:29:51 UTC
+ Last Updated on 09/09/2024 01:25:26 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
