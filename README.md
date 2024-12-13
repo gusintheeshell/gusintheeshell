@@ -43,8 +43,6 @@
 
 > 📦 150.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,231 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 100 Public Repositories 
@@ -83,7 +81,7 @@ Mac                      8 hrs 59 mins       ███████████�
 ```
 
 
- Last Updated on 12/12/2024 00:28:37 UTC
+ Last Updated on 13/12/2024 00:30:04 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
