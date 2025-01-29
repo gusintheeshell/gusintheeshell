@@ -12,7 +12,8 @@
 
 ### <img src="https://media.giphy.com/media/JmPabUqU22FAbQYkzN/giphy.gif?cid=ecf05e47q7yo25g6s5nej8umf3mb3j381wfsxdgh38ozfxmn&rid=giphy.gif&ct=s" width="50"> A little more about me...  
 
-- 🌱 I’m currently learning AWS, Architecture and Advanced React
+- 🦀 I’m currently learning Rust
+- 🦎 Trying low level programming, LLM, RAG Applications
 - :computer: I’m currently using Macbook PRO 15 2017
 - ⚡ Fun fact: No coffee, no code
 
