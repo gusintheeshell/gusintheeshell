@@ -12,7 +12,7 @@
 
 ### <img src="https://media.giphy.com/media/JmPabUqU22FAbQYkzN/giphy.gif?cid=ecf05e47q7yo25g6s5nej8umf3mb3j381wfsxdgh38ozfxmn&rid=giphy.gif&ct=s" width="50"> A little more about me...  
 
-- 🦀 I’m currently learning Rust
+- 🦀 I’m currently learning Rust and mastering [Neovim](https://neovim.io/)|[LazyVim](https://www.lazyvim.org/)
 - 🦎 Trying low level programming, LLM, RAG Applications
 - :computer: I’m currently using Macbook PRO 15 2017
 - ⚡ Fun fact: No coffee, no code
