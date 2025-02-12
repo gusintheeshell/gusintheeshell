@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C483%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.3%20million%20lines%20of%20code-blue)
 
@@ -68,17 +68,22 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Lua                      1 hr 8 mins         ██████████████████░░░░░░░   70.47 % 
+TypeScript               17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+tmux                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+conf                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   51 mins             █████████████░░░░░░░░░░░░   52.97 % 
+VS Code                  45 mins             ████████████░░░░░░░░░░░░░   47.03 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/02/2025 00:26:26 UTC
+ Last Updated on 12/02/2025 00:26:43 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
