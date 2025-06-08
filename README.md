@@ -44,7 +44,7 @@
 
 > 📦 152.4 kB Used in GitHub's Storage 
  > 
-> 🏆 28 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -82,7 +82,7 @@ Mac                      41 mins             ███████████�
 ```
 
 
- Last Updated on 07/06/2025 00:30:29 UTC
+ Last Updated on 08/06/2025 00:33:08 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
