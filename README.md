@@ -3,9 +3,9 @@
 <p><em>Front-end Developer at <a href="https://inter.co/">Inter</a>
 </em></p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=gusbdev.gusbdev)
+![](https://visitor-badge.glitch.me/badge?page_id=gusintheeshell.gusintheeshell)
 ![Twitter Follow](https://img.shields.io/twitter/follow/GustavoBFig?label=Follow)
-![GitHub followers](https://img.shields.io/github/followers/gusbdev?label=Followers&style=social)
+![GitHub followers](https://img.shields.io/github/followers/gusintheeshell?label=Followers&style=social)
 [![Linkedin: gustavobarbosa](https://img.shields.io/badge/-Gustavo%20Barbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-barbosa-4a457178/?locale=en_US)](https://www.linkedin.com/in/gustavo-barbosa-figueiredo/?locale=en_US)
 [![Medium](https://img.shields.io/badge/-Gustavo%20Barbosa-black?style=flat-square&logo=Medium&logoColor=white&link=https://gusbdev.medium.com/)](https://gusbdev.medium.com/)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
