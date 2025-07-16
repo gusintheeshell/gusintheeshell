@@ -68,17 +68,21 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               40 mins             █████████████░░░░░░░░░░░░   52.77 % 
+JSON                     21 mins             ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+Bash                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Prisma                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/07/2025 00:33:11 UTC
+ Last Updated on 16/07/2025 00:31:50 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
