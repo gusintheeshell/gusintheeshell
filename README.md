@@ -34,8 +34,6 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C581%20hrs%2053%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.4%20million%20lines%20of%20code-blue)
@@ -68,18 +66,18 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               25 mins             ███████████████████░░░░░░   77.94 % 
-Markdown                 7 mins              ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+JavaScript               21 mins             ███████████████████░░░░░░   74.50 % 
+Markdown                 7 mins              ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
 
 🔥 Editors: 
-Cursor                   33 mins             █████████████████████████   100.00 % 
+Cursor                   28 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      33 mins             █████████████████████████   100.00 % 
+Mac                      28 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/08/2025 00:27:35 UTC
+ Last Updated on 31/08/2025 00:31:40 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
