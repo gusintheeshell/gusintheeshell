@@ -34,7 +34,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C587%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C587%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -68,19 +68,19 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               3 hrs 33 mins       ████████████████████████░   95.40 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+JavaScript               3 hrs 43 mins       ████████████████████████░   95.59 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 33 mins       ████████████████████████░   95.40 % 
-Notes                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Neovim                   3 hrs 43 mins       ████████████████████████░   95.59 % 
+Notes                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 
 💻 Operating System: 
-Mac                      3 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/09/2025 00:29:53 UTC
+ Last Updated on 12/09/2025 00:29:16 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
