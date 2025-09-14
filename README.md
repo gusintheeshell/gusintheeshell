@@ -44,8 +44,6 @@
 
 > 📦 163.9 kB Used in GitHub's Storage 
  > 
-> 🏆 629 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 103 Public Repositories 
@@ -68,19 +66,17 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               3 hrs 43 mins       ████████████████████████░   95.59 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+JavaScript               3 hrs 40 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 43 mins       ████████████████████████░   95.59 % 
-Notes                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Neovim                   3 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 53 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/09/2025 00:26:36 UTC
+ Last Updated on 14/09/2025 00:30:43 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
