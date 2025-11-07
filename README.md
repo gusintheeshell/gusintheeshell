@@ -14,7 +14,7 @@
 
 - 🦀 I’m currently learning Rust and mastering [Neovim](https://neovim.io/)|[LazyVim](https://www.lazyvim.org/)
 - 🦎 Trying low level programming, LLM, RAG Applications
-- :computer: I’m currently using Macbook PRO 15 2017
+- :computer: I’m currently using Mac Mini M4
 - ⚡ Fun fact: No coffee, no code
 
 ### <img src="https://media.giphy.com/media/J5G9LaVDOHjPXWiPpM/giphy.gif?cid=ecf05e4754h7jyq8sg2agqh6e4osqtfrgpe9vqbv359lhy35&rid=giphy.gif&ct=s" width="50"> Around the internet...
