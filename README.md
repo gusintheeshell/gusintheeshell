@@ -34,17 +34,15 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C590%20hrs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 164.2 kB Used in GitHub's Storage 
+> 📦 164.3 kB Used in GitHub's Storage 
  > 
-> 🏆 658 Contributions in the Year 2025
+> 🏆 703 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,10 +53,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1092 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-🌆 Daytime                3324 commits        ████████░░░░░░░░░░░░░░░░░   31.74 % 
-🌃 Evening                4924 commits        ████████████░░░░░░░░░░░░░   47.01 % 
-🌙 Night                  1134 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+🌞 Morning                1119 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+🌆 Daytime                3329 commits        ████████░░░░░░░░░░░░░░░░░   31.65 % 
+🌃 Evening                4937 commits        ████████████░░░░░░░░░░░░░   46.93 % 
+🌙 Night                  1134 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
 ```
 
 
@@ -68,17 +66,18 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               44 mins             █████████████████░░░░░░░░   69.69 % 
+YAML                     19 mins             ████████░░░░░░░░░░░░░░░░░   30.31 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   1 hr 4 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/11/2025 00:29:42 UTC
+ Last Updated on 16/11/2025 00:32:48 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
