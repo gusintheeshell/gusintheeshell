@@ -34,6 +34,8 @@
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C592%20hrs%2057%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.5%20million%20lines%20of%20code-blue)
@@ -66,18 +68,21 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               44 mins             █████████████████░░░░░░░░   69.69 % 
-YAML                     19 mins             ████████░░░░░░░░░░░░░░░░░   30.31 % 
+JavaScript               3 hrs 21 mins       █████████████████████░░░░   83.55 % 
+YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Vue.js                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-Cursor                   1 hr 4 mins         █████████████████████████   100.00 % 
+Cursor                   4 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 4 mins         █████████████████████████   100.00 % 
+Mac                      4 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/11/2025 00:32:48 UTC
+ Last Updated on 17/11/2025 00:31:41 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
