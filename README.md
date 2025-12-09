@@ -38,11 +38,11 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 168.3 kB Used in GitHub's Storage 
+> 📦 168.7 kB Used in GitHub's Storage 
  > 
 > 🏆 1,121 Contributions in the Year 2025
  > 
@@ -55,10 +55,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1144 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-🌆 Daytime                3844 commits        ████████░░░░░░░░░░░░░░░░░   32.98 % 
-🌃 Evening                5482 commits        ████████████░░░░░░░░░░░░░   47.04 % 
-🌙 Night                  1184 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+🌞 Morning                1144 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+🌆 Daytime                3968 commits        ████████░░░░░░░░░░░░░░░░░   33.40 % 
+🌃 Evening                5586 commits        ████████████░░░░░░░░░░░░░   47.01 % 
+🌙 Night                  1184 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
 ```
 
 
@@ -68,17 +68,17 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 08/12/2025 00:32:35 UTC
+ Last Updated on 09/12/2025 00:32:20 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
