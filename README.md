@@ -42,9 +42,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 168.7 kB Used in GitHub's Storage 
+> 📦 168.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,121 Contributions in the Year 2025
+> 🏆 1,127 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,9 +55,9 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1144 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-🌆 Daytime                3968 commits        ████████░░░░░░░░░░░░░░░░░   33.40 % 
-🌃 Evening                5586 commits        ████████████░░░░░░░░░░░░░   47.01 % 
+🌞 Morning                1144 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+🌆 Daytime                3968 commits        ████████░░░░░░░░░░░░░░░░░   33.38 % 
+🌃 Evening                5592 commits        ████████████░░░░░░░░░░░░░   47.04 % 
 🌙 Night                  1184 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
 ```
 
@@ -68,17 +68,19 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               25 mins             ███████████████████████░░   92.16 % 
+INI                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   27 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      27 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/12/2025 00:32:20 UTC
+ Last Updated on 10/12/2025 00:33:01 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
