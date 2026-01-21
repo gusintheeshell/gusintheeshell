@@ -68,17 +68,22 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Lua                      24 mins             ██████████████████████░░░   89.14 % 
+Rust                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+tmux                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   14 mins             █████████████░░░░░░░░░░░░   50.41 % 
+Neovim                   13 mins             ████████████░░░░░░░░░░░░░   49.59 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      27 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/01/2026 00:33:03 UTC
+ Last Updated on 21/01/2026 00:34:38 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
