@@ -68,22 +68,22 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               1 hr 26 mins        ███████████░░░░░░░░░░░░░░   45.03 % 
-JSON                     42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Markdown                 20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Groovy                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+TypeScript               54 mins             ███████████░░░░░░░░░░░░░░   42.30 % 
+Markdown                 23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Other                    21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Groovy                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 12 mins       █████████████████████████   99.66 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Cursor                   2 hrs 5 mins        █████████████████████████   98.53 % 
+Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 💻 Operating System: 
-Mac                      3 hrs 13 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/03/2026 00:48:11 UTC
+ Last Updated on 31/03/2026 00:44:28 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
