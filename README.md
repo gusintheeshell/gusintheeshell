@@ -44,13 +44,13 @@
 
 > 📦 187.7 kB Used in GitHub's Storage 
  > 
-> 🏆 427 Contributions in the Year 2026
+> 🏆 428 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 102 Public Repositories 
  > 
-> 🔑 53 Private Repositories 
+> 🔑 54 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -68,22 +68,22 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Bash                     34 mins             ████████░░░░░░░░░░░░░░░░░   33.38 % 
-TypeScript               20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-JSON                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Other                    18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+YAML                     57 mins             ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+Other                    50 mins             ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+TypeScript               41 mins             █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Bash                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
 
 🔥 Editors: 
-Cursor                   1 hr 9 mins         █████████████████░░░░░░░░   66.62 % 
-Neovim                   34 mins             ████████░░░░░░░░░░░░░░░░░   33.38 % 
+Cursor                   3 hrs 11 mins       █████████████████████░░░░   84.69 % 
+Neovim                   34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
 
 💻 Operating System: 
-Mac                      1 hr 43 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/04/2026 00:39:10 UTC
+ Last Updated on 10/04/2026 00:45:40 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
