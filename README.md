@@ -34,8 +34,6 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C653%20hrs%2027%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.48%20million%20lines%20of%20code-blue?style=flat)
@@ -52,33 +50,8 @@
  > 
 > 🔑 54 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                1366 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-🌆 Daytime                4517 commits        █████████░░░░░░░░░░░░░░░░   34.16 % 
-🌃 Evening                6070 commits        ███████████░░░░░░░░░░░░░░   45.90 % 
-🌙 Night                  1272 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 14/05/2026 01:00:52 UTC
+ Last Updated on 15/05/2026 00:59:16 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
