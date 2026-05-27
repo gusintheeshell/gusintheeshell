@@ -34,9 +34,9 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C653%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C655%20hrs%2030%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.50%20million%20lines%20of%20code-blue?style=flat)
 
@@ -44,7 +44,7 @@
 
 > 📦 225.1 kB Used in GitHub's Storage 
  > 
-> 🏆 485 Contributions in the Year 2026
+> 🏆 518 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,10 +55,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1366 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-🌆 Daytime                4517 commits        █████████░░░░░░░░░░░░░░░░   34.10 % 
-🌃 Evening                6090 commits        ███████████░░░░░░░░░░░░░░   45.98 % 
-🌙 Night                  1272 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+🌞 Morning                1366 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+🌆 Daytime                4517 commits        █████████░░░░░░░░░░░░░░░░   34.02 % 
+🌃 Evening                6123 commits        ████████████░░░░░░░░░░░░░   46.11 % 
+🌙 Night                  1272 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
 ```
 
 
@@ -68,17 +68,21 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               40 mins             █████████████████░░░░░░░░   69.77 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+HTML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   57 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      57 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/05/2026 01:01:02 UTC
+ Last Updated on 27/05/2026 01:05:52 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
