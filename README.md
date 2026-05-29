@@ -34,8 +34,6 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C655%20hrs%2030%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.50%20million%20lines%20of%20code-blue?style=flat)
@@ -52,37 +50,8 @@
  > 
 > 🔑 54 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                1366 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-🌆 Daytime                4517 commits        █████████░░░░░░░░░░░░░░░░   34.02 % 
-🌃 Evening                6123 commits        ████████████░░░░░░░░░░░░░   46.11 % 
-🌙 Night                  1272 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-TypeScript               1 hr 18 mins        ██████████████████░░░░░░░   70.20 % 
-JSON                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-
-🔥 Editors: 
-Cursor                   1 hr 52 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      1 hr 52 mins        █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 28/05/2026 01:00:20 UTC
+ Last Updated on 29/05/2026 01:07:00 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
