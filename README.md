@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C658%20hrs%2038%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.50%20million%20lines%20of%20code-blue?style=flat)
 
@@ -68,22 +68,21 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               1 hr 17 mins        ████████████████░░░░░░░░░   65.17 % 
-JSON                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+TypeScript               39 mins             ████████████████░░░░░░░░░   63.50 % 
+JSON                     21 mins             █████████░░░░░░░░░░░░░░░░   34.15 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-Cursor                   1 hr 38 mins        █████████████████████░░░░   82.27 % 
-VS Code                  21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Cursor                   52 mins             █████████████████████░░░░   85.04 % 
+VS Code                  9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
 
 💻 Operating System: 
-Mac                      1 hr 59 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/06/2026 01:09:37 UTC
+ Last Updated on 03/06/2026 01:16:21 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
