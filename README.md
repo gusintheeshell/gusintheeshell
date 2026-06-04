@@ -68,21 +68,18 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               39 mins             ████████████████░░░░░░░░░   63.50 % 
-JSON                     21 mins             █████████░░░░░░░░░░░░░░░░   34.15 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+JSON                     6 mins              ██████████████████████░░░   89.56 % 
+TypeScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
 
 🔥 Editors: 
-Cursor                   52 mins             █████████████████████░░░░   85.04 % 
-VS Code                  9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 1 min          █████████████████████████   100.00 % 
+Mac                      7 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/06/2026 01:16:21 UTC
+ Last Updated on 04/06/2026 01:16:13 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
