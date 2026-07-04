@@ -34,7 +34,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C658%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C659%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -68,17 +68,21 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               22 mins             ██████████████░░░░░░░░░░░   56.84 % 
+JavaScript               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+JSON                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Image (svg)              2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   38 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      38 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/07/2026 03:35:23 UTC
+ Last Updated on 04/07/2026 03:28:12 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
