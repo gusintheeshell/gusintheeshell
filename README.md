@@ -34,9 +34,9 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C659%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C661%20hrs%205%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.69%20million%20lines%20of%20code-blue?style=flat)
 
@@ -68,21 +68,21 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               22 mins             ██████████████░░░░░░░░░░░   56.84 % 
-JavaScript               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-JSON                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Image (svg)              2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+TypeScript               1 hr 30 mins        ███████████████░░░░░░░░░░   61.36 % 
+JSON                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 🔥 Editors: 
-Cursor                   38 mins             █████████████████████████   100.00 % 
+Cursor                   2 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      38 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/07/2026 03:45:42 UTC
+ Last Updated on 06/07/2026 03:54:52 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
