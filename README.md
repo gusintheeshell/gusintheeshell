@@ -34,7 +34,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C664%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C661%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -42,9 +42,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 226.8 kB Used in GitHub's Storage 
+> 📦 225.3 kB Used in GitHub's Storage 
  > 
-> 🏆 640 Contributions in the Year 2026
+> 🏆 644 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,8 +56,8 @@
 
 ```text
 🌞 Morning                1817 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-🌆 Daytime                5378 commits        █████████░░░░░░░░░░░░░░░░   34.58 % 
-🌃 Evening                6987 commits        ███████████░░░░░░░░░░░░░░   44.92 % 
+🌆 Daytime                5378 commits        █████████░░░░░░░░░░░░░░░░   34.57 % 
+🌃 Evening                6992 commits        ███████████░░░░░░░░░░░░░░   44.94 % 
 🌙 Night                  1372 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 ```
 
@@ -68,21 +68,21 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               1 hr 30 mins        ███████████████░░░░░░░░░░   61.36 % 
-JSON                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+TypeScript               2 hrs 33 mins       ███████████░░░░░░░░░░░░░░   43.85 % 
+JSON                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Markdown                 42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+YAML                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 27 mins       █████████████████████████   100.00 % 
+Cursor                   5 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/07/2026 02:58:56 UTC
+ Last Updated on 09/07/2026 03:38:40 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
