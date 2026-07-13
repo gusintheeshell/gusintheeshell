@@ -68,21 +68,21 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   37.14 % 
-Markdown                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-JSON                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-HTML                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-YAML                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TypeScript               1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+Markdown                 40 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+JSON                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+HTML                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+YAML                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 14 mins       █████████████████████████   100.00 % 
+Cursor                   4 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/07/2026 03:18:39 UTC
+ Last Updated on 13/07/2026 03:20:58 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
