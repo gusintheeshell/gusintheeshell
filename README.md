@@ -34,15 +34,17 @@
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C676%20hrs%2052%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.27%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.36%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 227.0 kB Used in GitHub's Storage 
+> 📦 228.5 kB Used in GitHub's Storage 
  > 
-> 🏆 719 Contributions in the Year 2026
+> 🏆 778 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,10 +55,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1923 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-🌆 Daytime                5699 commits        █████████░░░░░░░░░░░░░░░░   34.42 % 
-🌃 Evening                7461 commits        ███████████░░░░░░░░░░░░░░   45.07 % 
-🌙 Night                  1472 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+🌞 Morning                2123 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+🌆 Daytime                5812 commits        █████████░░░░░░░░░░░░░░░░   34.44 % 
+🌃 Evening                7471 commits        ███████████░░░░░░░░░░░░░░   44.26 % 
+🌙 Night                  1472 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
 ```
 
 
@@ -66,21 +68,21 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               3 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.17 % 
-Markdown                 1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
-Other                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+TypeScript               3 hrs 14 mins       ███████████░░░░░░░░░░░░░░   43.77 % 
+Markdown                 1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+Other                    49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 🔥 Editors: 
-Cursor                   7 hrs 3 mins        █████████████████████████   100.00 % 
+Cursor                   7 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 3 mins        █████████████████████████   100.00 % 
+Mac                      7 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/07/2026 03:19:48 UTC
+ Last Updated on 27/07/2026 03:31:02 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
