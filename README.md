@@ -70,45 +70,39 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               1 hr 4 mins         █████████████████░░░░░░░░   67.10 % 
-SQL                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Image (svg)              1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   1 hr 29 mins        ███████████████████████░░   92.33 % 
-Agent                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Cursor                   1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 36 mins        █████████████████████████   100.00 % 
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 29 mins (92.25%)
+⏱ AI Coding Time: 1 min (71.63%)
 
-✍️ 1,403 lines written by AI, 274 lines written by hand (83.66% AI-written)
+✍️ 0 lines written by AI, 274 lines written by hand (0.0% AI-written)
 
-🔤 1,520 Input Tokens, 1,520 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.03 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 25 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
-Grok                     1,492 lines         █████████████████████████   100.00 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Grok                     24 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.66% of written lines came from AI
-📄 Detailed Prompter — average 502 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 15.52% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 51 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 91.95% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/09/2026 03:40:53 UTC
+ Last Updated on 07/09/2026 03:40:59 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
