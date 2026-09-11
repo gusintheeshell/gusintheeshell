@@ -34,19 +34,19 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C585%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C588%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-60%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.91%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.98%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 259.2 kB Used in GitHub's Storage 
  > 
-> 🏆 991 Contributions in the Year 2026
+> 🏆 1,002 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,10 +57,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2604 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-🌆 Daytime                6214 commits        ████████░░░░░░░░░░░░░░░░░   33.14 % 
-🌃 Evening                8409 commits        ███████████░░░░░░░░░░░░░░   44.85 % 
-🌙 Night                  1522 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+🌞 Morning                2671 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+🌆 Daytime                6217 commits        ████████░░░░░░░░░░░░░░░░░   32.81 % 
+🌃 Evening                8538 commits        ███████████░░░░░░░░░░░░░░   45.06 % 
+🌙 Night                  1522 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
 ```
 
 
@@ -70,39 +70,45 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Image (svg)              1 min               █████████████████████████   100.00 % 
+TypeScript               1 hr 34 mins        ████████████████░░░░░░░░░   63.81 % 
+Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Bash                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Text                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+SQL                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 🔥 Editors: 
-Cursor                   1 min               █████████████████████████   100.00 % 
+Cursor                   1 hr 58 mins        ████████████████████░░░░░   80.01 % 
+Agent                    29 mins             █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+Mac                      2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (71.63%)
+⏱ AI Coding Time: 2 hrs 27 mins (99.72%)
 
-✍️ 0 lines written by AI, 274 lines written by hand (0.0% AI-written)
+✍️ 2,459 lines written by AI, 277 lines written by hand (89.88% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 9,488 Input Tokens, 9,488 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.17 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 13 AI Sessions, 29 AI Prompts
 
-Grok                     24 lines            █████████████████████████   100.00 % 
+Grok                     2,612 lines         █████████████████████████   100.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 51 characters per prompt
+🤖 AI-Driven — 89.88% of written lines came from AI
+📚 Verbose Prompter — average 1,561 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 91.95% of changed lines were hand-edited
+🚀 High AI Trust — 9.59% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/09/2026 03:46:47 UTC
+ Last Updated on 11/09/2026 03:45:21 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
