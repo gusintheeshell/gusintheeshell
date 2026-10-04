@@ -74,8 +74,7 @@ TypeScript               13 mins             ███████████�
 Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 🔥 Editors: 
-Cursor                   14 mins             ████████████████████████░   95.84 % 
-Agent                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Cursor                   14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Mac                      14 mins             █████████████████████████   100.00 % 
@@ -94,8 +93,6 @@ Mac                      14 mins             ███████████�
 
 🧠 2 AI Sessions, 3 AI Prompts
 
-Grok                     18 lines            █████████████████████████   100.00 % 
-
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
 📄 Detailed Prompter — average 526 characters per prompt
@@ -104,7 +101,7 @@ Grok                     18 lines            ███████████�
 ```
 
 
- Last Updated on 03/10/2026 04:30:06 UTC
+ Last Updated on 04/10/2026 05:01:02 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
